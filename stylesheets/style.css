@@ -1,0 +1,113 @@
+/*
+  Built Mobile First: All Generic sizing and layouts are placed in main part of CSS. 
+  All sizing and layout changes specific to screen sizes is down in media-query area.
+  All color based things are seperate to allow for tweaking later out.
+*/
+
+/**********************************
+GENERAL
+***********************************/
+
+/**********************************
+NAVIGATION 
+***********************************/
+
+
+
+/**********************************
+HEADER
+***********************************/
+
+
+/**********************************
+MAIN CONTENT
+***********************************/
+h2{
+  text-align: center;
+  font-size:45px;
+  font-family: 'Lobster', cursive;
+}
+.title{
+  color:#E810FF;
+}
+.spanish{
+  color:#E810FF;
+  text-align:center;
+  font-size:50px;
+}
+
+
+.English{
+  color:black;
+  font-size:13.5px;
+}
+
+.image_gallery {
+			width:90%;
+			margin:0 auto;
+		}
+
+.caption {
+  width:320px;
+  text-align:center;
+}
+
+.p {
+  width:330px;
+  height:250px;
+
+ 
+}
+
+.statement {
+  width:400px;
+  border:solid;
+  border-color:#E810FF;
+  background-color:black;
+  color:#E810FF;
+  height:892px;
+  text-align:center;
+}
+
+.pic{
+  width:150px;
+  height:150px; 
+}
+
+.carousel-inner {
+  width:1800px;
+}
+
+.carousel-image {
+  width:300px;
+  height:auto;
+  margin:0 auto;
+}
+
+
+/**********************************
+FOOTER - Layout and Sizing
+***********************************/
+
+
+/**********************************
+PAGE: __1__
+***********************************/
+
+
+
+/**********************************
+FONTS
+font-family: 'Lobster', cursive; (for all titles or anything i want to pop out)
+***********************************/
+
+
+
+/**********************************
+COLORS and BACKGROUNDS
+light purple:#E810FF
+skyblue:#57FFC2
+cream:#FFDC5C
+dark orange:#E89F03
+black:black
+***********************************/
