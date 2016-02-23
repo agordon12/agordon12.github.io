@@ -22,10 +22,12 @@ HEADER
 /**********************************
 MAIN CONTENT
 ***********************************/
-h2{
+h2,
+h1{
   text-align: center;
   font-size:45px;
   font-family: 'Lobster', cursive;
+  color:#57FFC2;
 }
 .title{
   color:#E810FF;
@@ -50,7 +52,7 @@ h2{
 .caption {
   width:320px;
   text-align:center;
-}
+} 
 
 .p {
   width:330px;
@@ -59,7 +61,7 @@ h2{
  
 }
 
-.statement {
+.statement{
   width:400px;
   border:solid;
   border-color:#E810FF;
@@ -83,6 +85,7 @@ h2{
   height:auto;
   margin:0 auto;
 }
+
 
 
 /**********************************
