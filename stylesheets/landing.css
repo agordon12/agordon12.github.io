@@ -24,6 +24,10 @@ HEADER
     height:550px;
     padding-top:50px;
 }
+body{
+    background-color:#E810FF;
+}
+
 
 .portrait_name{
     width:320px;
